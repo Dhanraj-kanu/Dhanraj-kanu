@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | Data Science Enthusiast
 
-🎓 BCA Data Science Student (CGPA: 9.76)  
+🎓 BCA Data Science Student (CGPA: 9.8)  
 💡 Passionate about building scalable web apps & AI-powered solutions  
 📍 Warangal, Telangana  
 
@@ -81,7 +81,9 @@
 ## 🌐 Connect with Me
 - 📧 dhanrajkanu8848@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/dhanrajkanu  
-- 🌍 Portfolio: http://www.danny.page.gd/  
+- 🌍 Portfolio 1: http://www.danny.page.gd/ 
+- 🌍 Portfolio 2: https://dhanraj-kanu.netlify.app/
+-  
 
 ---
 
